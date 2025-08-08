@@ -1,3 +1,7 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Ahmed Elbashier
-description: AI & Healthcare Projects | Backend Developer | Cloud Engineer
+description: Cloud Engineer | Backend Developer | AI & CX Solutions Specialist
+logo: /images/profile.jpg
+show_downloads: false
+github:
+  is_project_page: false
