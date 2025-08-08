@@ -9,19 +9,12 @@ I’ve worked across healthcare, telecom, and enterprise environments — implem
 ## 🚀 Featured Projects
 ### 1. Phonima Medical Image Classifier for X-ray
 AI-powered classifier for chest X-ray analysis using PyTorch and Grad-CAM.
-[View Code](#) | [Live Demo](#)
+[View Code](https://github.com/AhmedElbashier/medical_image_classifier) | [Live Demo](https://github.com/AhmedElbashier/medical_image_classifier.git)
 
 ### 2. AWS Glue PHI De-identifier
 Automated PHI removal pipeline using AWS Glue + Comprehend Medical.
-[View Code](#) | [Live Demo](#)
+[View Code]([#](https://github.com/AhmedElbashier/aws-glue-deidentifier)) | [Live Demo](https://github.com/AhmedElbashier/aws-glue-deidentifier.git)
 
-### 3. AI Appointment Scheduler
-NLP-powered assistant for optimal appointment recommendations.
-[View Code](#) | [Live Demo](#)
-
-### 4. AI Chatbot (Text + Voice)
-C#, Ollama, Vosk, and Azure TTS for bilingual patient interaction.
-[View Code](#) | [Live Demo](#)
 
 ## 📜 Certifications
 - Microsoft Azure AI Fundamentals
