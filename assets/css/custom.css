@@ -1,0 +1,5 @@
+
+/* Extra spacing and simple cards */
+section { margin-bottom: 2rem; }
+.project-card { border: 1px solid #e6e6e6; padding: 12px 14px; border-radius: 10px; }
+img { max-width: 100%; border-radius: 10px; }
