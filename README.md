@@ -1,8 +1,10 @@
 # Ahmed Elbashier
-**AI & Healthcare-focused Cloud Engineer | Backend Developer**
+**Cloud Engineer | Backend Developer | AI & CX Solutions Specialist**
 
-Welcome to my portfolio.  
-I specialize in **AI solutions for healthcare** — from medical image classification to PHI data de-identification and intelligent scheduling.
+I’m a technology professional with expertise in **backend development**, **cloud platforms**, and **enterprise software implementation**.  
+My career spans delivering large-scale telecom and customer experience solutions, integrating AI tools, and building secure, scalable platforms.  
+
+I’ve worked across healthcare, telecom, and enterprise environments — implementing complex systems, integrating APIs, and developing innovative solutions that solve real-world challenges.
 
 ## 🚀 Featured Projects
 ### 1. Phonima Medical Image Classifier for X-ray
