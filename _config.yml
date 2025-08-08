@@ -1,7 +1,23 @@
-theme: jekyll-theme-minimal
+
 title: Ahmed Elbashier
 description: Cloud Engineer | Backend Developer | AI & CX Solutions Specialist
-logo: /images/profile.jpg
+theme: jekyll-theme-minimal
+logo: /assets/images/profile.jpg
 show_downloads: false
 github:
   is_project_page: false
+social_links:
+  email: ahmedelbashier.2@gmail.com
+  linkedin: https://linkedin.com/in/ahmed-elbashier
+  github: https://github.com/AhmedElbashier
+navigation:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /#projects
+  - name: Skills & Certs
+    link: /#skills
+  - name: Experience
+    link: /#experience
+  - name: Contact
+    link: /#contact
